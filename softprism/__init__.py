@@ -4,3 +4,4 @@ from .robot import SoftPrism
 from .geometry import Geometry
 from .material import Material
 from .actuation_config import ActuationConfig
+from .hardware import TendonMotorBridge
